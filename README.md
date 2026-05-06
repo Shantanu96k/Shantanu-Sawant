@@ -64,8 +64,6 @@ shantanu = {
 &nbsp;
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
-
-### Data Engineering & Tools
 <p>
 <img src="https://img.shields.io/badge/ETL%20Pipelines-orange?style=flat-square"/>
 &nbsp;
@@ -102,9 +100,9 @@ End-to-end pipeline — raw CSV → Python transformation (7+ feature engineerin
 **Key outputs:**
 - 8 advanced SQL queries (Window Functions, CTEs, PIVOT)
 - RFM segmentation, MoM growth, Pareto analysis
-- Insight: >30% discount = consistent negative margin
+- Insight: discount = consistent negative margin
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/ETL-Pipeline)
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +118,7 @@ Pure SQL analytics project on 10,000+ customer records. No Python — just SQL d
 - CTEs and correlated subqueries for churn pattern analysis
 - Identified top churn drivers: inactivity, low balance, age group
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/bank-churn-analysis)
 
 </td>
 </tr>
@@ -139,7 +137,7 @@ Interactive Power BI dashboard built directly from a flat dataset. Focus was on 
 - Category and product-level drill-through analysis
 - Slicers for dynamic time-period and segment filtering
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/Pizza-Sales)
 
 </td>
 <td width="50%" valign="top">
@@ -156,7 +154,7 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 - Actual vs predicted visualisation using Matplotlib
 - Foundational project — understanding LSTM for sequential data
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/Stock-Price_Prediction)
 
 </td>
 </tr>
@@ -164,7 +162,7 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -195,8 +193,7 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu96k&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
-
----
+--->
 
 ## 📚 Currently Learning
 
@@ -216,7 +213,7 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-sawant-21a46b283/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanu96k)
 &nbsp;
@@ -224,10 +221,9 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01G2D3,50:7B61FF,100:FF61D2&height=120&section=footer"/>
 
 </div>
