@@ -1,28 +1,44 @@
-# 👋 Hi, I'm Shantanu
+# Hi, I'm Shantanu Sawant 👋
 
-🎯 Aspiring Data Analyst | Machine Learning Enthusiast
-📍 India
+🎓 Final Year MCA Student  
+📊 Aspiring Data Analyst | Data Engineer | ML Engineer  
+📍 Nagpur, India  
 
-## 💡 About Me
+## Skills
+- Python
+- SQL
+- MySQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- ETL Pipelines
+- Machine Learning
+- Flask
 
-* Passionate about solving real-world problems using data
-* Skilled in Excel, SQL, Python, Power BI
-* Currently building industry-level projects
+## Projects
+### ETL Pipeline Project
+- Built complete ETL workflow using Python + MySQL
+- Data Cleaning, Transformation, Loading
+- Analytical SQL Views and Business Insights
 
-## 🛠 Skills
+### Stock Price Prediction
+- LSTM + Random Forest + XGBoost
+- Flask Deployment
+- Interactive Dashboard
 
-* Excel
-* SQL (MySQL)
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* Power BI
+## Currently Learning
+- Apache Spark
+- Airflow
+- AWS
+- Power BI
 
-## 📊 Projects
+## Connect With Me
+## Linkedin - https://www.linkedin.com/in/shantanu-sawant-21a46b283/
+## GitHub -  https://github.com/Shantanu96k
+## Email - shantanusawant2002@outlook.com
 
-* 📈 Stock Price Prediction (LSTM, Flask)
-* 📊 Sales Analysis Dashboard
-* 👥 Customer Segmentation (K-Means)
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/shantanu-sawant-21a46b283/
-* Email: shantanusawant85@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
