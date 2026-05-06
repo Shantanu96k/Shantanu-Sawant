@@ -1,203 +1,233 @@
-<h1 align="center">Hi 👋, I'm Shantanu Sawant</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Analyst | Data Engineer | Machine Learning Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shantanu%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20MCA%20Final%20Year%20%7C%20Nagpur%2C%20India&descAlignY=55&descSize=16"/>
 
-<p align="center">
-🎓 MCA Final Year Student <br>
-📍 Nagpur, India <br>
-📊 Passionate about Data Analytics, ETL Pipelines, Data Engineering & Machine Learning
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions.;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+Pipelines;Continuously+learning+%E2%80%94+always+building.)](https://git.io/typing-svg)
 
----
+<br/>
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Shantanu96k&color=58A6FF&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Shantanu96k?style=flat-square&color=58A6FF&label=Followers)](https://github.com/Shantanu96k)
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shantanu96k">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 👤 About Me
 
-![](https://komarev.com/ghpvc/?username=Shantanu96k&color=blueviolet&style=for-the-badge)
+```python
+shantanu = {
+    "role"        : "Data Analyst (Fresher)",
+    "education"   : "MCA Final Year — G H Raisoni College, Nagpur (Expected June 2026)",
+    "core_skills" : ["Python", "SQL", "Power BI", "ETL Pipelines", "EDA"],
+    "building"    : "End-to-end analytics projects from raw data → insights",
+    "learning"    : ["Apache Spark", "Airflow", "AWS", "Analytics Engineering"],
+    "goal"        : "Data Analyst → Analytics Engineer (long-term)"
+}
+```
 
-</p>
+- 🔍 I focus on **data cleaning, SQL analytics, ETL design, and BI dashboards**
+- 📊 Every project I build goes from **raw data → structured model → business insight**
+- 🧠 Strong in **Window Functions, CTEs, Star Schema design, and EDA**
+- ⚙️ Actively learning **data engineering tools** — treating it as a growth path, not a current title
 
 ---
 
-# 💡 About Me
+## 🛠️ Tech Stack
 
-- 📊 Data Analyst Fresher
-- 🛠️ Building real-world ETL and Machine Learning projects
-- 📈 Passionate about transforming raw data into actionable business insights
-- 💻 Strong interest in Data Warehousing, Analytics Engineering, and Scalable Data Pipelines (Continously Learning and Improving)
-- 🚀 Currently improving skills in Apache Spark, Airflow, AWS, and Power BI
-- 🎯 Goal: Become a Data Analyst / Analytics Engineer.
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming & Databases
-
+### Languages & Databases
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-## 📊 Data Analytics & Visualization
-
+### Data Analysis & Visualization
 <p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Machine Learning
-
+### BI & Reporting
 <p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/ETL-Pipeline-orange?style=for-the-badge"/>
+### Data Engineering & Tools
+<p>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-orange?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Star%20Schema-blueviolet?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Dimensional%20Modelling-6A0DAD?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Data-Modeling-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LSTM-8E44AD?style=for-the-badge"/>
-
+### Tools & Environment
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📌 ETL Pipeline Project
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Overview
-Built a production-style ETL pipeline using Python, Pandas, and MySQL to process Superstore sales data and generate business insights.
+### 🔧 Superstore ETL Pipeline & Analytics
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC0000?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### 🔹 Key Features
-- Data Extraction from CSV datasets
-- Data Cleaning & Transformation
-- SQL Schema Design
-- Data Modeling & Analytical Views
-- End-to-End ETL Workflow
-- Automated Data Loading
+End-to-end pipeline — raw CSV → Python transformation (7+ feature engineering steps) → MySQL Star Schema (1 fact + 3 dim tables) → Power BI dashboard.
 
-### 🔹 Business Insights
-- Identified negative profit margins caused by high discounts
-- Analyzed regional sales and customer profitability
-- Built category-wise and customer-level analytics
-- Improved reporting structure using SQL views
+**Key outputs:**
+- 8 advanced SQL queries (Window Functions, CTEs, PIVOT)
+- RFM segmentation, MoM growth, Pareto analysis
+- Insight: >30% discount = consistent negative margin
 
-### 🔹 Tech Used
-Python | Pandas | MySQL | SQL | ETL
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📌 Stock Price Prediction System
+### 🏦 Bank Customer Churn — SQL Analysis
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-Advanced%20SQL-CC2927?style=flat-square)
 
-### 🔹 Overview
-Developed an ML-powered stock prediction platform using multiple machine learning and deep learning models.
+Pure SQL analytics project on 10,000+ customer records. No Python — just SQL doing the heavy lifting.
 
-### 🔹 Key Features
-- Multi-model prediction (LSTM, Random Forest, XGBoost)
-- Flask-based web application
-- Interactive prediction dashboard
-- CSV dataset upload support
-- Future stock forecasting
-- Real-time visualization using Plotly
+**Key outputs:**
+- Window Functions (RANK, NTILE, LAG) for risk segmentation
+- CTEs and correlated subqueries for churn pattern analysis
+- Identified top churn drivers: inactivity, low balance, age group
 
-### 🔹 Tech Used
-Python | Flask | LSTM | XGBoost | Random Forest | Plotly
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 📚 Currently Learning
+### 📊 Pizza Sales Performance Dashboard
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-- Apache Spark
-- Apache Airflow
-- AWS Cloud
-- Power BI
-- Data Warehousing
-- Advanced SQL Optimization
-- Scalable Data Pipelines
+Interactive Power BI dashboard built directly from a flat dataset. Focus was on DAX modeling and clean visual storytelling.
 
----
+**Key outputs:**
+- 12+ DAX measures (Revenue, AOV, MoM growth, YoY)
+- Category and product-level drill-through analysis
+- Slicers for dynamic time-period and segment filtering
 
-# 📈 GitHub Stats
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shantanu96k&show_icons=true&theme=tokyonight"/>
+### 📈 Stock Price Prediction (LSTM)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu96k&layout=compact&theme=tokyonight"/>
+LSTM-based deep learning model trained on 1 year of historical OHLCV stock data for closing price prediction.
 
-</p>
+**Key outputs:**
+- Time series preprocessing: normalization, sequence windowing, train/test split
+- Actual vs predicted visualisation using Matplotlib
+- Foundational project — understanding LSTM for sequential data
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k)
 
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu96k&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 What I Focus On
-
-✔ Building scalable ETL pipelines  
-✔ Data Cleaning & Transformation  
-✔ SQL Analytics & Optimization  
-✔ Business Insight Generation  
-✔ Machine Learning Applications  
-✔ Data Visualization & Dashboards  
-✔ Real-world Data Engineering Projects  
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Career Objective
+## 📊 GitHub Stats
 
-Aspiring to work in Data Analytics  where I can apply analytical thinking, ETL development, SQL optimization, and machine learning skills to solve real-world business problems and contribute to data-driven decision-making.
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shantanu96k&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu96k&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu96k&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shantanu96k&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
 
 ---
 
-# ✨ Fun Fact
+## 📡 Activity
 
-I enjoy transforming messy datasets into meaningful business insights 📊
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu96k&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+> Treating data engineering as a continuous growth path — not a tag to claim.
+
+| Tool | Status | Why |
+|---|---|---|
+| Apache Spark | 🟡 Learning | Distributed processing for large datasets |
+| Apache Airflow | 🟡 Learning | Pipeline orchestration & scheduling |
+| AWS (S3, Glue, Redshift) | 🔴 Starting | Cloud-based data warehousing |
+| dbt (data build tool) | 🔴 Starting | Analytics engineering & data transformation |
+| Advanced Power BI | 🟢 Improving | Complex DAX patterns & data modelling in BI |
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanu96k)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanusawant2002@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
