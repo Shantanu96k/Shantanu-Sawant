@@ -19,9 +19,10 @@
 ## 👤 About Me
 
 ```python
-shantanu = {
+Shantanu = {
     "role"        : "Data Analyst (Fresher)",
-    "education"   : "MCA Final Year — G H Raisoni College, Nagpur (Expected June 2026)",
+    "education"   : "Master of Computer Application — G H Raisoni College, Nagpur",
+                    "Bachelor of Science in Computer Science (B.Sc. CS) - New Arts, Commerce and Science College, Wardha",
     "core_skills" : ["Python", "SQL", "Power BI", "ETL Pipelines", "EDA"],
     "building"    : "End-to-end analytics projects from raw data → insights",
     "learning"    : ["Apache Spark", "Airflow", "AWS", "Analytics Engineering"],
