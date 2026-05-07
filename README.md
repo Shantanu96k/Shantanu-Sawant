@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shantanu%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20MCA%20Final%20Year%20%7C%20Nagpur%2C%20India&descAlignY=55&descSize=16"/>
+<!-- <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shantanu%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20MCA%20Final%20Year%20%7C%20Nagpur%2C%20India&descAlignY=55&descSize=16"/> Header  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions.;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+Pipelines;Continuously+learning+%E2%80%94+always+building.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:451287,50:124578,100:38BDF8&height=160&text=Shantanu%20Sawant&fontSize=42&fontColor=fcf&fontAlignY=50&desc=Data%20Analyst%20%7C%20Nagpur%2C%20India&descAlignY=70&descSize=16" width="100%"/>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions.;SQL+%7C+Python+%7C+Power+BI+%7C+ETL+Pipelines;Continuously+learning+%E2%80%94+always+building.)](https://git.io/typing-svg)  -->
 
 <br/>
 
@@ -95,11 +97,10 @@ shantanu = {
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC0000?style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-End-to-end pipeline — raw CSV → Python transformation (7+ feature engineering steps) → MySQL Star Schema (1 fact + 3 dim tables) → Power BI dashboard.
+End-to-end pipeline — raw CSV → Python transformation (feature engineering steps) → MySQL Star Schema (1 fact + 3 dim_ tables) → Power BI dashboard.
 
 **Key outputs:**
-- 8 advanced SQL queries (Window Functions, CTEs, PIVOT)
-- RFM segmentation, MoM growth, Pareto analysis
+- Advanced SQL queries (Window Functions, CTEs, PIVOT), MoM growth
 - Insight: discount = consistent negative margin
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/ETL-Pipeline)
@@ -111,7 +112,7 @@ End-to-end pipeline — raw CSV → Python transformation (7+ feature engineerin
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-Advanced%20SQL-CC2927?style=flat-square)
 
-Pure SQL analytics project on 10,000+ customer records. No Python — just SQL doing the heavy lifting.
+Pure SQL analytics project on 8,000+ customer records.
 
 **Key outputs:**
 - Window Functions (RANK, NTILE, LAG) for risk segmentation
@@ -130,10 +131,10 @@ Pure SQL analytics project on 10,000+ customer records. No Python — just SQL d
 ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Interactive Power BI dashboard built directly from a flat dataset. Focus was on DAX modeling and clean visual storytelling.
+Interactive Power BI dashboard. Focus was on DAX modeling and clean visual storytelling.
 
 **Key outputs:**
-- 12+ DAX measures (Revenue, AOV, MoM growth, YoY)
+- DAX measures (Revenue, AOV, MoM growth, YoY)
 - Category and product-level drill-through analysis
 - Slicers for dynamic time-period and segment filtering
 
@@ -147,10 +148,10 @@ Interactive Power BI dashboard built directly from a flat dataset. Focus was on 
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-LSTM-based deep learning model trained on 1 year of historical OHLCV stock data for closing price prediction.
+LSTM-based deep learning model trained on 1 year of historical stock data for closing price prediction.
 
 **Key outputs:**
-- Time series preprocessing: normalization, sequence windowing, train/test split
+- Time series preprocessing: normalization, train/test split
 - Actual vs predicted visualisation using Matplotlib
 - Foundational project — understanding LSTM for sequential data
 
@@ -197,16 +198,14 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 
 ## 📚 Currently Learning
 
-> Treating data engineering as a continuous growth path — not a tag to claim.
-
 | Tool | Status | Why |
 |---|---|---|
-| Apache Spark | 🟡 Learning | Distributed processing for large datasets |
-| Apache Airflow | 🟡 Learning | Pipeline orchestration & scheduling |
-| AWS (S3, Glue, Redshift) | 🔴 Starting | Cloud-based data warehousing |
+| Apache Spark | 🔴 Starting | Distributed processing for large datasets |
+| Apache Airflow | 🔴 Starting | Pipeline orchestration & scheduling |
 | dbt (data build tool) | 🔴 Starting | Analytics engineering & data transformation |
 | Advanced Power BI | 🟢 Improving | Complex DAX patterns & data modelling in BI |
-
+| SQL | 🟢 Improving | Windows Function, CTEs, Subquerry |
+<!-- | AWS (S3, Glue, Redshift) | 🔴 Starting | Cloud-based data warehousing | -->
 ---
 
 ## 🤝 Connect
@@ -224,6 +223,6 @@ LSTM-based deep learning model trained on 1 year of historical OHLCV stock data 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01G2D3,50:7B61FF,100:FF61D2&height=120&section=footer"/>
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:451287,50:124578,100:38BDF8&height=120&section=footer"/> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:451287,50:124578,100:38BDF8&height=40" width="100%"/>
 </div>
