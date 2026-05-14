@@ -137,7 +137,7 @@ Interactive Power BI dashboard. Focus was on DAX modeling and clean visual story
 **Key outputs:**
 - DAX measures (Revenue, AOV, MoM growth, YoY)
 - Category and product-level drill-through analysis
-- Slicers for dynamic time-period and segment filtering
+<!-- - Slicers for dynamic time-period and segment filtering -->
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shantanu96k/Pizza-Sales)
 
